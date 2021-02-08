@@ -1,0 +1,1 @@
+console.log('WARSZTAT - Ustaw tło elementów HTML');
